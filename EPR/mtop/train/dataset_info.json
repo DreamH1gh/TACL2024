@@ -1,0 +1,86 @@
+{
+  "builder_name": "parquet",
+  "citation": " ",
+  "config_name": "mtop",
+  "dataset_name": "mtop",
+  "dataset_size": 10699326,
+  "description": " ",
+  "download_checksums": {
+    "hf://datasets/iohadrubin/mtop@db7e4c4458b2a7f27c4d46869c65e1ae0adcf8ec/mtop/train/0000.parquet": {
+      "num_bytes": 2480763,
+      "checksum": null
+    },
+    "hf://datasets/iohadrubin/mtop@db7e4c4458b2a7f27c4d46869c65e1ae0adcf8ec/mtop/validation/0000.parquet": {
+      "num_bytes": 360537,
+      "checksum": null
+    },
+    "hf://datasets/iohadrubin/mtop@db7e4c4458b2a7f27c4d46869c65e1ae0adcf8ec/mtop/test/0000.parquet": {
+      "num_bytes": 700701,
+      "checksum": null
+    }
+  },
+  "download_size": 3542001,
+  "features": {
+    "idx": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "intent": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "spans": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "domain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "lang": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "logical_form": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tokenized_question": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 14241327,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 7507063,
+      "num_examples": 15667,
+      "dataset_name": "mtop"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 1075137,
+      "num_examples": 2235,
+      "dataset_name": "mtop"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 2117126,
+      "num_examples": 4386,
+      "dataset_name": "mtop"
+    }
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

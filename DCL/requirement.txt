@@ -1,0 +1,5 @@
+torch
+tqdm
+openprompt
+transformers=4.35.2
+scikit-learn

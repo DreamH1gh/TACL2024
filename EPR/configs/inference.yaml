@@ -1,0 +1,29 @@
+# cwd: ???
+batch_size: 10
+
+# model_name: 'google/t5-v1_1-xl'
+model_name: "/data/chy/gpt-neo"
+# model_name: "EleutherAI/gpt-neo-125M"
+output_file: /data/chy/chy/EPR/data/validation_epr_mtop-null_a_train_prede.json
+# length_file: ???
+prompt_file: /data/chy/chy/EPR/data/validation_epr_mtop-null_a_train_prompts.json
+max_length: 1950
+task_name: mtop
+# model_name: 'google/t5-v1_1-small'
+dataset_reader:
+  _target_: src.dataset_readers.few_shot_dsr.FewShotDatasetReader
+  model_name: ${model_name}
+  task_name: ${task_name} 
+    # _target_: src.dataset_readers.tasks.break_task.BreakTask
+  prompt_file: ${prompt_file}
+  # length_file: ${length_file}
+hydra:
+  run:
+    dir: /data/chy/chy/EPR/outputs/epr_mtop-null_v0
+    
+model:
+  _target_: src.models.model.get_model
+  # _target_: transformers.AutoModelForCausalLM.from_pretrained
+  pretrained_model_name_or_path: ${model_name}
+  
+

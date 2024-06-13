@@ -1,0 +1,5 @@
+output_path: /data/chy/chy/EPR/mtop/bm25_mtop.json
+dataset_split: train
+setup_type: qa
+task_name: mtop
+L: 50

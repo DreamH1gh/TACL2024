@@ -1,0 +1,141 @@
+{"question_id": 1, "question": ["Please describe \"CS\" in 10 words:"]}
+{"question_id": 2, "question": ["Please describe \"Medical\" in 10 words:"]}
+{"question_id": 3, "question": ["Please describe \"Psychology\" in 10 words:"]}
+{"question_id": 4, "question": ["Please describe \"Civil\" in 10 words:"]}
+{"question_id": 5, "question": ["Please describe \"ECE\" in 10 words:"]}
+{"question_id": 6, "question": ["Please describe \"biochemistry\" in 10 words:"]}
+{"question_id": 7, "question": ["Please describe \"MAE\" in 10 words:"]}
+{"question_id": 8, "question": ["Please describe \"Parallel computing\" in 10 words:"]}
+{"question_id": 9, "question": ["Please describe \"Irritable Bowel Syndrome\" in 10 words:"]}
+{"question_id": 10, "question": ["Please describe \"Bioinformatics\" in 10 words:"]}
+{"question_id": 11, "question": ["Please describe \"Skin Care\" in 10 words:"]}
+{"question_id": 12, "question": ["Please describe \"Child abuse\" in 10 words:"]}
+{"question_id": 13, "question": ["Please describe \"Antisocial personality disorder\" in 10 words:"]}
+{"question_id": 14, "question": ["Please describe \"Smart Material\" in 10 words:"]}
+{"question_id": 15, "question": ["Please describe \"State space representation\" in 10 words:"]}
+{"question_id": 16, "question": ["Please describe \"Computer programming\" in 10 words:"]}
+{"question_id": 17, "question": ["Please describe \"Southern blotting\" in 10 words:"]}
+{"question_id": 18, "question": ["Please describe \"Smoking Cessation\" in 10 words:"]}
+{"question_id": 19, "question": ["Please describe \"Alzheimer's Disease\" in 10 words:"]}
+{"question_id": 20, "question": ["Please describe \"computer-aided design\" in 10 words:"]}
+{"question_id": 21, "question": ["Please describe \"Microcontroller\" in 10 words:"]}
+{"question_id": 22, "question": ["Please describe \"Electricity\" in 10 words:"]}
+{"question_id": 23, "question": ["Please describe \"Atopic Dermatitis\" in 10 words:"]}
+{"question_id": 24, "question": ["Please describe \"Immunology\" in 10 words:"]}
+{"question_id": 25, "question": ["Please describe \"False memories\" in 10 words:"]}
+{"question_id": 26, "question": ["Please describe \"Enzymology\" in 10 words:"]}
+{"question_id": 27, "question": ["Please describe \"Osteoarthritis\" in 10 words:"]}
+{"question_id": 28, "question": ["Please describe \"Image processing\" in 10 words:"]}
+{"question_id": 29, "question": ["Please describe \"Attention\" in 10 words:"]}
+{"question_id": 30, "question": ["Please describe \"Operating systems\" in 10 words:"]}
+{"question_id": 31, "question": ["Please describe \"Materials Engineering\" in 10 words:"]}
+{"question_id": 32, "question": ["Please describe \"Diabetes\" in 10 words:"]}
+{"question_id": 33, "question": ["Please describe \"Sprains and Strains\" in 10 words:"]}
+{"question_id": 34, "question": ["Please describe \"Healthy Sleep\" in 10 words:"]}
+{"question_id": 35, "question": ["Please describe \"Dementia\" in 10 words:"]}
+{"question_id": 36, "question": ["Please describe \"Bipolar Disorder\" in 10 words:"]}
+{"question_id": 37, "question": ["Please describe \"Analog signal processing\" in 10 words:"]}
+{"question_id": 38, "question": ["Please describe \"Rheumatoid Arthritis\" in 10 words:"]}
+{"question_id": 39, "question": ["Please describe \"Thermodynamics\" in 10 words:"]}
+{"question_id": 40, "question": ["Please describe \"Signal-flow graph\" in 10 words:"]}
+{"question_id": 41, "question": ["Please describe \"Media violence\" in 10 words:"]}
+{"question_id": 42, "question": ["Please describe \"Software engineering\" in 10 words:"]}
+{"question_id": 43, "question": ["Please describe \"Atrial Fibrillation\" in 10 words:"]}
+{"question_id": 44, "question": ["Please describe \"Relational databases\" in 10 words:"]}
+{"question_id": 45, "question": ["Please describe \"System identification\" in 10 words:"]}
+{"question_id": 46, "question": ["Please describe \"Cell biology\" in 10 words:"]}
+{"question_id": 47, "question": ["Please describe \"Ambient Intelligence\" in 10 words:"]}
+{"question_id": 48, "question": ["Please describe \"Depression\" in 10 words:"]}
+{"question_id": 49, "question": ["Please describe \"Eating disorders\" in 10 words:"]}
+{"question_id": 50, "question": ["Please describe \"Sports Injuries\" in 10 words:"]}
+{"question_id": 51, "question": ["Please describe \"Cryptography\" in 10 words:"]}
+{"question_id": 52, "question": ["Please describe \"Heart Disease\" in 10 words:"]}
+{"question_id": 53, "question": ["Please describe \"Geotextile\" in 10 words:"]}
+{"question_id": 54, "question": ["Please describe \"Stress Management\" in 10 words:"]}
+{"question_id": 55, "question": ["Please describe \"Water Pollution\" in 10 words:"]}
+{"question_id": 56, "question": ["Please describe \"Leadership\" in 10 words:"]}
+{"question_id": 57, "question": ["Please describe \"Solar Energy\" in 10 words:"]}
+{"question_id": 58, "question": ["Please describe \"Person perception\" in 10 words:"]}
+{"question_id": 59, "question": ["Please describe \"Children's Health\" in 10 words:"]}
+{"question_id": 60, "question": ["Please describe \"Headache\" in 10 words:"]}
+{"question_id": 61, "question": ["Please describe \"PID controller\" in 10 words:"]}
+{"question_id": 62, "question": ["Please describe \"Electric motor\" in 10 words:"]}
+{"question_id": 63, "question": ["Please describe \"Osteoporosis\" in 10 words:"]}
+{"question_id": 64, "question": ["Please describe \"Suspension Bridge\" in 10 words:"]}
+{"question_id": 65, "question": ["Please describe \"Medicare\" in 10 words:"]}
+{"question_id": 66, "question": ["Please describe \"Distributed computing\" in 10 words:"]}
+{"question_id": 67, "question": ["Please describe \"Strength of materials\" in 10 words:"]}
+{"question_id": 68, "question": ["Please describe \"Fluid mechanics\" in 10 words:"]}
+{"question_id": 69, "question": ["Please describe \"Hereditary Angioedema\" in 10 words:"]}
+{"question_id": 70, "question": ["Please describe \"Algorithm design\" in 10 words:"]}
+{"question_id": 71, "question": ["Please describe \"Northern blotting\" in 10 words:"]}
+{"question_id": 72, "question": ["Please describe \"Digital control\" in 10 words:"]}
+{"question_id": 73, "question": ["Please describe \"Internal combustion engine\" in 10 words:"]}
+{"question_id": 74, "question": ["Please describe \"Gender roles\" in 10 words:"]}
+{"question_id": 75, "question": ["Please describe \"Emergency Contraception\" in 10 words:"]}
+{"question_id": 76, "question": ["Please describe \"Multiple Sclerosis\" in 10 words:"]}
+{"question_id": 77, "question": ["Please describe \"Low Testosterone\" in 10 words:"]}
+{"question_id": 78, "question": ["Please describe \"Autism\" in 10 words:"]}
+{"question_id": 79, "question": ["Please describe \"Addiction\" in 10 words:"]}
+{"question_id": 80, "question": ["Please describe \"Green Building\" in 10 words:"]}
+{"question_id": 81, "question": ["Please describe \"network security\" in 10 words:"]}
+{"question_id": 82, "question": ["Please describe \"Hepatitis C\" in 10 words:"]}
+{"question_id": 83, "question": ["Please describe \"Computer vision\" in 10 words:"]}
+{"question_id": 84, "question": ["Please describe \"Manufacturing engineering\" in 10 words:"]}
+{"question_id": 85, "question": ["Please describe \"Idiopathic Pulmonary Fibrosis\" in 10 words:"]}
+{"question_id": 86, "question": ["Please describe \"Operational amplifier\" in 10 words:"]}
+{"question_id": 87, "question": ["Please describe \"Machine design\" in 10 words:"]}
+{"question_id": 88, "question": ["Please describe \"Myelofibrosis\" in 10 words:"]}
+{"question_id": 89, "question": ["Please describe \"Overactive Bladder\" in 10 words:"]}
+{"question_id": 90, "question": ["Please describe \"Electrical circuits\" in 10 words:"]}
+{"question_id": 91, "question": ["Please describe \"Computer graphics\" in 10 words:"]}
+{"question_id": 92, "question": ["Please describe \"Crohn's Disease\" in 10 words:"]}
+{"question_id": 93, "question": ["Please describe \"Lymphoma\" in 10 words:"]}
+{"question_id": 94, "question": ["Please describe \"Schizophrenia\" in 10 words:"]}
+{"question_id": 95, "question": ["Please describe \"Prenatal development\" in 10 words:"]}
+{"question_id": 96, "question": ["Please describe \"Remote Sensing\" in 10 words:"]}
+{"question_id": 97, "question": ["Please describe \"Seasonal affective disorder\" in 10 words:"]}
+{"question_id": 98, "question": ["Please describe \"Molecular biology\" in 10 words:"]}
+{"question_id": 99, "question": ["Please describe \"Hypothyroidism\" in 10 words:"]}
+{"question_id": 100, "question": ["Please describe \"Polycythemia Vera\" in 10 words:"]}
+{"question_id": 101, "question": ["Please describe \"Genetics\" in 10 words:"]}
+{"question_id": 102, "question": ["Please describe \"Parenting\" in 10 words:"]}
+{"question_id": 103, "question": ["Please describe \"Polymerase chain reaction\" in 10 words:"]}
+{"question_id": 104, "question": ["Please describe \"Menopause\" in 10 words:"]}
+{"question_id": 105, "question": ["Please describe \"Hydraulics\" in 10 words:"]}
+{"question_id": 106, "question": ["Please describe \"Parkinson's Disease\" in 10 words:"]}
+{"question_id": 107, "question": ["Please describe \"Rainwater Harvesting\" in 10 words:"]}
+{"question_id": 108, "question": ["Please describe \"Construction Management\" in 10 words:"]}
+{"question_id": 109, "question": ["Please describe \"Machine learning\" in 10 words:"]}
+{"question_id": 110, "question": ["Please describe \"Digestive Health\" in 10 words:"]}
+{"question_id": 111, "question": ["Please describe \"Social cognition\" in 10 words:"]}
+{"question_id": 112, "question": ["Please describe \"Electrical network\" in 10 words:"]}
+{"question_id": 113, "question": ["Please describe \"Anxiety\" in 10 words:"]}
+{"question_id": 114, "question": ["Please describe \"Fungal Infection\" in 10 words:"]}
+{"question_id": 115, "question": ["Please describe \"HIV/AIDS\" in 10 words:"]}
+{"question_id": 116, "question": ["Please describe \"Data structures\" in 10 words:"]}
+{"question_id": 117, "question": ["Please describe \"Problem-solving\" in 10 words:"]}
+{"question_id": 118, "question": ["Please describe \"Prosocial behavior\" in 10 words:"]}
+{"question_id": 119, "question": ["Please describe \"Allergies\" in 10 words:"]}
+{"question_id": 120, "question": ["Please describe \"Prejudice\" in 10 words:"]}
+{"question_id": 121, "question": ["Please describe \"Human Metabolism\" in 10 words:"]}
+{"question_id": 122, "question": ["Please describe \"Psoriatic Arthritis\" in 10 words:"]}
+{"question_id": 123, "question": ["Please describe \"Kidney Health\" in 10 words:"]}
+{"question_id": 124, "question": ["Please describe \"Stealth Technology\" in 10 words:"]}
+{"question_id": 125, "question": ["Please describe \"Control engineering\" in 10 words:"]}
+{"question_id": 126, "question": ["Please describe \"Asthma\" in 10 words:"]}
+{"question_id": 127, "question": ["Please describe \"Nonverbal communication\" in 10 words:"]}
+{"question_id": 128, "question": ["Please describe \"Ankylosing Spondylitis\" in 10 words:"]}
+{"question_id": 129, "question": ["Please describe \"Birth Control\" in 10 words:"]}
+{"question_id": 130, "question": ["Please describe \"Borderline personality disorder\" in 10 words:"]}
+{"question_id": 131, "question": ["Please describe \"Senior Health\" in 10 words:"]}
+{"question_id": 132, "question": ["Please describe \"Migraine\" in 10 words:"]}
+{"question_id": 133, "question": ["Please describe \"Symbolic computation\" in 10 words:"]}
+{"question_id": 134, "question": ["Please describe \"Psoriasis\" in 10 words:"]}
+{"question_id": 135, "question": ["Please describe \"Cancer\" in 10 words:"]}
+{"question_id": 136, "question": ["Please describe \"Mental Health\" in 10 words:"]}
+{"question_id": 137, "question": ["Please describe \"Weight Loss\" in 10 words:"]}
+{"question_id": 138, "question": ["Please describe \"Structured Storage\" in 10 words:"]}
+{"question_id": 139, "question": ["Please describe \"Voltage law\" in 10 words:"]}
+{"question_id": 140, "question": ["Please describe \"Lorentz force law\" in 10 words:"]}
+{"question_id": 141, "question": ["Please describe \"Electrical generator\" in 10 words:"]}
