@@ -48,7 +48,7 @@ class HierVerbPromptForClassification(PromptForClassification):
         self.flag_contrastive_logits = False
         self.label_sim = self.load_label_sim("wos/wos_label_description_10.json")
     
-    def laod_label_sim(self,path):
+    def load_label_sim(self,path):
         label_des = json.load(open(path))
         emb = torch.zeros(len(label_des), 768)
         for l in label_des:
